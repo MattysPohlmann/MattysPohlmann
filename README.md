@@ -3,3 +3,6 @@ Ich habe mir einen Github Account verifiziert, auf welchen ich nun meine Fortsch
 
 24. August 2022
 Ich habe heute weiter an Greenfoot gearbeitet und mir verschiedene Programme auf studio.code.org angeguckt. Dort habe ich auch ein paar Codes gesehen, welche ich definitiv in mein Projekt einbauen möchte, unter anderem eine Chance Gegenstände zu zerstören, oder sich frei zu bewegen. Somit kann ich in meinem Programm ein bisschen Varietät einzubringen. Ich bin mir jedoch nicht mehr sicher, ob ich bei dem Gedanken Risiko zu verwirklichen bleibe. Ich glaube die Codes könnten zu schwierig werden, weshalb ich mir lieber ein simpleres Programm angucken werde.
+
+31. August
+Das Projekt, welches das Brettspiel "Risiko" verwirklichen sollte, wird zu aufwendig. Ich habe mir dazu überlegt, was alles essentiell für das Spiel wäre und kam zu dem Entschluss, dass ich mit meinem Anfänger-Wissen nicht in der Lage bin es zu schreiben. Daher habe ich mir nun einen Account bei App Lab erstellt, um dort eine App zu schreiben, jedoch weiß ich noch nicht welches. Ich werde mir die nächsten Stunden nehmen, um eine provisorische App zu erstellen, um mich zu vergewissern, welche Möglichkeiten ich dort habe.
